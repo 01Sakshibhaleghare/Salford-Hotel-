@@ -4,7 +4,8 @@ Responsive Hotel Website using HTML, Css, Javascript
 ![Screenshot 2025-04-26 105437](https://github.com/user-attachments/assets/a9dd390d-09d9-4f60-9ef4-6417a75701d6)
 
 
-![Screenshot 2025-04-26 105516](https://github.com/user-attachments/assets/e85f793e-aeb6-48ae-ac48-1779ffbce5b0)
+![Screenshot 2025-04-26 105516](https://github.com/user-attachments/assets/34d4e7e9-a031-40cc-b4be-b2f034348fa6)
+
 
 ![Screenshot 2025-04-26 105623](https://github.com/user-attachments/assets/977a728d-b26d-4cf2-8164-80a9df06e712)
 
